@@ -1,0 +1,27 @@
+First,Last,Grade,City,Movie,IMDB Score,Genre,Coding experience,Programming language
+Lucca,Quintela,12th,"Mountain View, CA",Borat,7.3,Comedy,2,"Python, JS"
+Alexander,Anca,10th,"Little Rock, Arkansas",Interstellar,8.6,Sci-Fi,1,"Python, JS, HTML/CSS"
+Serena,Huang,11th,"Oviedo, FL",The Report,7.2,Historical,4,"Python, Java, HTML/CSS"
+Graham,Smith,11th,"Breinigsville, PA",Interstellar,8.6,Sci-Fi,4,"Python, C++, JS, HTML/CSS"
+Maxim,Hutz,11th,"Cold Spring, NY",The Matrix,8.7,Action,3,"Python, C, C++, Java"
+Dylan,Bober,11th,"Hollywood, FL",The Godfather,9.2,Crime,4,"JS, Python, HTML/CSS, Java"
+Leticia,Barbieri Stroeh,11th,"Campinas, SP - Brazil",Harry Potter and the Prisioner of Azkaban,7.9,Adventure,3.5,"C, C++, HTML"
+Ameil,Cherisme,11th,"New York, NY",Spiderman Into the Spiderverse,8.4,Action,2,"Python, C"
+Sonia,Lyakhovich,11th,"Brooklyn, NY",The Breakfast Club,7.9,Comedy,1.5,(learning) Python
+Ariana,Arabadjiev,10th,"New York, NY",My Cousin Vinny,7.6,Comedy,2.5,Python
+Anushka,Chakrabarti,11th,Princeton NJ,The Fast and the Furious,6.8,Action,3,"Java, JavaScript"
+Corina,Torres,12th,"Wyckoff, NJ",Midsommar,7.1,Drama,3,"Python, JavaScript, HTML"
+Gelila,Yimtatu,12th,"Annandale, VA",MHA: Heroes Rising,8.1,Anime,3,"Python, JavaScript, Java"
+Gerard,Spooner,12th,"Stamford, CT",The Social Network,7.7,Biography,3,"Python, Java, HTML"
+Aarush,Raj,11th,"Livingston, NJ ",Shutter Island,8.1,Mystery,4,"Java, Python, HTML, Swift"
+Saara,Puri,9th,"New York, NY",Mean girls,7,Comedy,,python
+Riya,Patel,11th,"Monroe, NJ",Clueless,6.8,Romantic,4,"Java, C"
+Anish,Kumar,12th,"Nutley, NJ",Harry Potter and the Chamber of Secrets,7.4,Adventure,4,"Java, Python, HTML/CSS"
+Hersh,Joshi,12th,"Jericho, NY",Now You See Me,7.3,Comedy,,"Python, Java, Javascript, Html, C++"
+Thomas,Pequegnot,11th,"Eastchester, NY",Avengers Infinity War,8.4,Action,2,Python
+Aiden,McComiskey,9th,Greenwich,The shawshank redemption,9.3,Drama,2.5,"Python, Lua"
+Steven,Oliner,12th,"Glen Ridge, NJ",Drumline,5.8,Drama,4,"Python, Some Java"
+Noa,Morris,12th,"New York, NY",Bombshell,6.8,Biography,2.5,"Python, HTML/CSS"
+Malaika,Kumar,10th,"Memphis, TN",The Meg,6.2,Sci-Fi,2,Python
+Joshua,Berkowitz,11th,"New York, NY",Good Will Hunting,8.3,Drama ,3,"JS, HTML, CSS, Swift"
+Junchen,Wu,9th,Shanghai,Ratatouille,8,Adventure,2.5,Java
