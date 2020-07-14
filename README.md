@@ -17,4 +17,6 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: Matplotlib Plotting](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day02/demo_plot.ipynb)
 - [Lab: Visualizing Icebreaker Dataset](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day02/lab_icebreaker.ipynb)
 - [Demo: Boston Housing Dataset: Single Variable](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day02/demo_boston_housing_one_variable.ipynb)
+- [Demo: Boston Housing Dataset: Multi Variable](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day02/demo_multilinear.ipynb)
+- [Demo: Linear regression -- Statistics](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day02/linear_regression_statistics_verification.ipynb)
 - [Lab: Robot arm](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day02/lab_robot_arm.ipynb)
