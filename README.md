@@ -20,3 +20,9 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: Boston Housing Dataset: Multi Variable](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day02/demo_multilinear.ipynb)
 - [Demo: Linear regression -- Statistics](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day02/linear_regression_statistics_verification.ipynb)
 - [Lab: Robot arm](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day02/lab_robot_arm.ipynb)
+
+### Day 3: Overfitting and Generalization
+- [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/lecture03_Overfitting_Generalization.pdf)
+- [Demo: Polynomial fitting](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/demo_fit_polynomial.ipynb)
+- [Demo: Overfitting and Regularization](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/demo_overfitting_regularization.ipynb)
+- [Demo: Gradient descent](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/demo_gd_linreg.ipynb)
