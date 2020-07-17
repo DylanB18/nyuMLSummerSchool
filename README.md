@@ -23,6 +23,21 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 
 ### Day 3: Overfitting and Generalization
 - [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/lecture03_Overfitting_Generalization.pdf)
+- [Lecture Notes annotated](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/lecture03_Overfitting_Generalization_annotated.pdf)
 - [Demo: Polynomial fitting](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/demo_fit_polynomial.ipynb)
+- [Demo: Polynomial fitting solution](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/demo_fit_polynomial_solution.ipynb)
 - [Demo: Overfitting and Regularization](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/demo_overfitting_regularization.ipynb)
+- [Demo: Overfitting and Regularization solution](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/demo_overfitting_regularization_solution.ipynb)
+
+### Day 4: Linear classifiers
+- [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day04/lecture04_Linear_Classifiers.pdf)
+- [Lectures Notes annotated](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day04/lecture04_Linear_Classifiers_annotated.pdf)
 - [Demo: Gradient descent](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/demo_gd_linreg.ipynb)
+- [Demo: Breast cancer](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day04/Breast_Cancer_Demo.ipynb)
+- [Demo: Breast cancer solution](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day04/Breast_Cancer_Demo_solution.ipynb)
+- [Demo: Iris](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day04/demo_iris.ipynb) 
+
+### Day 5: Mini Project
+- [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day05/lecture05_Mini_Project.pdf)
+
+
