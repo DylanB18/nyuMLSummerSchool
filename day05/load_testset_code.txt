@@ -1,0 +1,2 @@
+X_test = pd.read_csv('https://raw.githubusercontent.com/BolunDai0216/nyuMLSummerSchool/master/day05/fish_market_test_feature.csv').values
+y_test = pd.read_csv('https://raw.githubusercontent.com/BolunDai0216/nyuMLSummerSchool/master/day05/fish_market_test_label.csv').values
