@@ -41,6 +41,6 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day05/lecture05_Mini_Project.pdf)
 
 ### Day 6: Neural Networks
--[Demo: Keras basics](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day06/demo_tf_keras_basics.ipynb)
--[lab: fish market](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day06/lab_mlp_fish_market_keras.ipynb)
+- [Demo: Keras basics](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day06/demo_tf_keras_basics.ipynb)
+- [lab: fish market](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day06/lab_mlp_fish_market_keras.ipynb)
 
