@@ -46,7 +46,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [lab: fish market](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day06/lab_mlp_fish_market_keras.ipynb)
 - [lab: fish market solution](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day06/lab_mlp_fish_market_keras_solution.ipynb)
 
-### Day 7: Convolutional neural network
+### Day 7: Convolutional neural Networks
 - [Demo: Images in computer](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/Images_In_Computer_Demo.ipynb)
 - [Demo: Edge detection](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/Kernels_Demo.ipynb)
 - [Lab: MNIST](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/lab_MNIST.ipynb)
