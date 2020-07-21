@@ -50,3 +50,5 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: Images in computer](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/Images_In_Computer_Demo.ipynb)
 - [Demo: Edge detection](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/Kernels_Demo.ipynb)
 - [Lab: MNIST](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/lab_MNIST.ipynb)
+
+
