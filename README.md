@@ -51,4 +51,6 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: Edge detection](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/Kernels_Demo.ipynb)
 - [Lab: MNIST](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/lab_MNIST.ipynb)
 
-
+### Day 7: Convolutional neural Networks
+- [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day08/lecture08_CNN.pdf)
+- [Lab: Cats and Dogs](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day08/lab_cats_and_dogs.ipynb)
