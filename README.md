@@ -54,3 +54,6 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 ### Day 8: Convolutional neural Networks
 - [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day08/lecture08_CNN.pdf)
 - [Lab: Cats and Dogs](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day08/lab_cats_and_dogs.ipynb)
+
+### Day 9: Final Project
+- [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day09/lecture09_Project.pdf)
