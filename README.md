@@ -35,7 +35,7 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: Gradient descent](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day03/demo_gd_linreg.ipynb)
 - [Demo: Breast cancer](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day04/Breast_Cancer_Demo.ipynb)
 - [Demo: Breast cancer solution](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day04/Breast_Cancer_Demo_solution.ipynb)
-- [Demo: Iris](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day04/demo_iris.ipynb) 
+- [Demo: Iris](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day04/demo_iris.ipynb)
 
 ### Day 5: Mini Project
 - [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day05/lecture05_Mini_Project.pdf)
@@ -51,6 +51,6 @@ NYU Tandon Machine Learning Summer Program 2020. Materials are adapted from last
 - [Demo: Edge detection](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/Kernels_Demo.ipynb)
 - [Lab: MNIST](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day07/lab_MNIST.ipynb)
 
-### Day 7: Convolutional neural Networks
+### Day 8: Convolutional neural Networks
 - [Lecture Notes](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day08/lecture08_CNN.pdf)
 - [Lab: Cats and Dogs](https://github.com/BolunDai0216/nyuMLSummerSchool/blob/master/day08/lab_cats_and_dogs.ipynb)
